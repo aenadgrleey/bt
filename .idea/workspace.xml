@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29fec1b4-70fe-4bad-af70-2b622a1eb238" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BreakpointsTracker_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ui_js.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ui_jvm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.intellijPlatform/localPlatformArtifacts/IC-243.25659.59/localIde-IC-IC-243.25659.59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/Run IDE with Plugin.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/main/kotlin/com/aenadgrleey/bt/BreakpointsTracker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/main/kotlin/com/aenadgrleey/bt/FrontendServerStartupActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/main/kotlin/com/aenadgrleey/bt/ToolWindowFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/main/resources/META-INF/pluginIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/commonMain/kotlin/com/aenadgrleey/bt/model/Breakpoint.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/commonMain/kotlin/com/aenadgrleey/bt/utils/Address.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/commonMain/kotlin/com/aenadgrleey/bt/utils/JSON.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/jsMain/kotlin/com/aenadgrleey/bt/FrontEnd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/jsMain/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/jvmMain/kotlin/com/aenadgrleey/bt/FrontEndServer.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_sync>
+              <task name="setupDependencies" />
+            </after_sync>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BreakpointsTracker" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2024.1.7/4ec8a960913b0561c398280ef9e5f888d3d996cc/ideaIC-2024.1.7-sources.jar!/com/intellij/ide/ApplicationInitializedListener.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2024.1.7/4ec8a960913b0561c398280ef9e5f888d3d996cc/ideaIC-2024.1.7-sources.jar!/com/intellij/xdebugger/XDebuggerUtil.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2024.1.7/4ec8a960913b0561c398280ef9e5f888d3d996cc/ideaIC-2024.1.7-sources.jar!/com/intellij/xdebugger/impl/ui/DebuggerUIUtil.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2024.1.7/4ec8a960913b0561c398280ef9e5f888d3d996cc/ideaIC-2024.1.7-sources.jar!/commonMain/channels/ChannelCoroutine.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2024.1.7/4ec8a960913b0561c398280ef9e5f888d3d996cc/ideaIC-2024.1.7-sources.jar!/commonMain/channels/Produce.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core-jvm/3.1.2/54134aa02bbccd8098c45ada08a6e0f008f20752/ktor-server-core-jvm-3.1.2-sources.jar!/jvmMain/io/ktor/server/engine/EmbeddedServerJvm.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core-jvm/3.1.2/54134aa02bbccd8098c45ada08a6e0f008f20752/ktor-server-core-jvm-3.1.2-sources.jar!/jvmMain/io/ktor/server/http/content/SinglePageApplication.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core-jvm/3.1.2/54134aa02bbccd8098c45ada08a6e0f008f20752/ktor-server-core-jvm-3.1.2-sources.jar!/jvmMain/io/ktor/server/http/content/StaticContent.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-websockets-jvm/3.1.2/4f61c6ce3e3603614c57b87a583cfdd6972f9784/ktor-server-websockets-jvm-3.1.2-sources.jar!/commonMain/io/ktor/server/websocket/WebSockets.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vNIRL0PCgURE2fZrsPAaRxQPci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.BreakpointsTracker [./gradlew :ui:tasks --all | grep Distribution].executor": "Run",
+    "Gradle.BreakpointsTracker [:ui jsBrowserProductionExecutableDistribution].executor": "Run",
+    "Gradle.BreakpointsTracker [:ui:jsBrowserProductionExecutableDistribution].executor": "Run",
+    "Gradle.BreakpointsTracker [:ui:jsBrowserProductionWebpack].executor": "Run",
+    "Gradle.BreakpointsTracker [:ui:jsProductionExecutableCompileSync].executor": "Run",
+    "Gradle.BreakpointsTracker [:ui:tasks --all | grep Distribution].executor": "Run",
+    "Gradle.BreakpointsTracker [clean build].executor": "Run",
+    "Gradle.BreakpointsTracker [jsBrowserProductionExecutableDistribution].executor": "Run",
+    "Gradle.BreakpointsTracker [jsBrowserProductionWebpack].executor": "Run",
+    "Gradle.BreakpointsTracker [jsBrowserRun].executor": "Run",
+    "Gradle.BreakpointsTracker [setupDependencies].executor": "Run",
+    "Gradle.BreakpointsTracker [ui:compileKotlinJs].executor": "Run",
+    "Gradle.BreakpointsTracker [ui:jsBrowserProductionRun].executor": "Run",
+    "Gradle.BreakpointsTracker.executor": "Run",
+    "Gradle.BreakpointsTracker:ui [build].executor": "Run",
+    "Gradle.Build BreakpointsTracker.executor": "Run",
+    "Gradle.FrontEndServer [jvm].executor": "Run",
+    "Gradle.Run Plugin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/aenadgrleey/IdeaProjects/BreakpointsTracker/ui/src/jsMain/kotlin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ui/src/jsMain/kotlin" />
+      <recent name="$PROJECT_DIR$/ui/src/main/kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ui/src/jsMain" />
+      <recent name="$PROJECT_DIR$/ui/src/jvmMain/resources" />
+      <recent name="$PROJECT_DIR$/ui/build/distributions/assets/js" />
+      <recent name="$PROJECT_DIR$/ui/src/jvmMain" />
+      <recent name="$PROJECT_DIR$/ui/src/jsMain/resources" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="com.aenadgrleey.bt.utils" />
+      <recent name="com.aenadgrleey.bt." />
+      <recent name="com.aenadgrleey.bt.model" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle jsBrowserProductionExecutableDistribution " />
+      <command value="gradle :ui jsBrowserProductionExecutableDistribution " />
+      <command value="./gradlew :ui:jsBrowserProductionExecutableDistribution " />
+      <command value="gradle :ui:jsBrowserProductionExecutableDistribution " />
+      <command value="gradle ./gradlew :ui:tasks --all | grep Distribution " />
+      <command value="gradle :ui:tasks --all | grep Distribution " />
+      <command value="gradle ui:compileKotlinJs" />
+      <command value="gradle ui:jsBrowserProductionRun" />
+      <command value="gradle :ui:jsBrowserProductionExecutableDistribution" />
+      <command value="gradle :ui:jsProductionExecutableCompileSync" />
+      <command value="gradle :ui:jsBrowserProductionWebpack" />
+      <command value="gradle jsBrowserRun --continuous " />
+      <command value="gradle jsBrowserProductionWebpack" />
+      <command value="gradle clean build --refresh-dependencies " />
+      <command value="gradle --stop" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Run Plugin">
+    <configuration name="BreakpointsTracker [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--refresh-dependencies" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BreakpointsTracker [jsBrowserProductionWebpack]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jsBrowserProductionWebpack" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BreakpointsTracker [jsBrowserRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--continuous" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jsBrowserRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BreakpointsTracker" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stop" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FrontEndServer [jvm]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ui" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-DmainClass=com.aenadgrleey.bt.FrontEndServerKt --quiet" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jvmRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2">
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="build" externalProjectPath="$PROJECT_DIR$/ui" vmOptions="" scriptParameters="" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Run Plugin" />
+      <item itemvalue="Gradle.BreakpointsTracker" />
+      <item itemvalue="Gradle.BreakpointsTracker [clean build]" />
+      <item itemvalue="Gradle.BreakpointsTracker [jsBrowserProductionWebpack]" />
+      <item itemvalue="Gradle.BreakpointsTracker [jsBrowserRun]" />
+      <item itemvalue="Gradle.FrontEndServer [jvm]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FrontEndServer [jvm]" />
+        <item itemvalue="Gradle.BreakpointsTracker [jsBrowserProductionWebpack]" />
+        <item itemvalue="Gradle.BreakpointsTracker [jsBrowserRun]" />
+        <item itemvalue="Gradle.BreakpointsTracker" />
+        <item itemvalue="Gradle.BreakpointsTracker [clean build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29fec1b4-70fe-4bad-af70-2b622a1eb238" name="Changes" comment="" />
+      <created>1743979097617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743979097617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/tracker/src/main/kotlin/com/aenadgrleey/bt/model/Breakpoint.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ui/src/jsMain/kotlin/com/aenadgrleey/bt/FrontEnd.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ui/src/jsMain/kotlin/com/aenadgrleey/bt/FrontEnd.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ui/src/jvmMain/kotlin/com/aenadgrleey/bt/FrontEndServer.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
